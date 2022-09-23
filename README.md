@@ -1,6 +1,6 @@
-# SOBRE MIM
+# BEM VINDO (A)
 
-## MARIA KIELT
+## SOBRE MIM
 
 
 - 👋 ola, meu nome é ***Maria***
@@ -10,3 +10,9 @@
 
 [insta](https://www.instagram.com/kieltm_/)
 
+
+
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original
